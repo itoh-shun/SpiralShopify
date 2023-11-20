@@ -1,0 +1,3 @@
+[submodule ".module/php-shopify"]
+	path = .module/php-shopify
+	url = git@github.com:phpclassic/php-shopify.git
